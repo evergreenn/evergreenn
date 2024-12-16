@@ -98,6 +98,8 @@ Here are some ideas to get you started:
  <p align="center">
 🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
 ⚒ Hyundai Factory Ulsan (2021.12 ~ 2022.2)
+🏦Industrial Bank of Korea (IBK 기업은행) (2024.07 ~ 2024.08)
+📈Yuanta Securities Korea Co., Ltd.( 유안타증권 ) (2024.12.30 ~ )
   
  </p>
  
