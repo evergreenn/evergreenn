@@ -83,9 +83,7 @@ Here are some ideas to get you started:
 </p>
 
  
- <hr>
- <h3 align="center">✍️ Tech Blog</h3>
- <p align="center"> http://ulsanboy.tistory.com </p>
+
  
  <h3 align="center">✍️ Learning Algoritm & Language</h3>
  
