@@ -96,6 +96,7 @@ Here are some ideas to get you started:
  <p align="center">
 🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
 ⚒ Hyundai Factory Ulsan (2021.12 ~ 2022.2)<br/>
+🏦Yuanta Securities Korea Co., Ltd.( 유안타증권 2025.01 ~ )<br/>
 
 
   
