@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <li> 건국대학교 IT 학술동아리 CONA <sub>(2022.06 ~ 2024.02) </sub> </li>
  <li>건국대학교 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2023.07 ~ 2023.09)</sub></li>
  <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC 본선</a> <sub>(2023.09 ~ 2024.09 )</sub></li>
- <li>파생매매파트 국내선물옵션 매매/결제 시스템 개발 - <a href="https://www.myasset.com/myasset/main/index.cmd">  유안타증권 </a> <sub>(2024.12 ~ )</sub></li>
+ <li>국내선물옵션 매매/결제 시스템 개발 - <a href="https://www.myasset.com/myasset/main/index.cmd">  유안타증권 </a> <sub>(2024.12 ~ )</sub></li>
  
  
 </h6>
